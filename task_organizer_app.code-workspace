@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../task_organizer_app"
+		},
+		{
+			"path": "../../projects/statsketball/Statsketball"
+		},
+		{
+			"path": "../../practice/js_overview"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../task_organizer_app_new"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather_api_site"
+	}
+}
